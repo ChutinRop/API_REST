@@ -106,3 +106,6 @@ Content-Type: application/json
 * No usa base de datos real, los datos se almacenan en un **array en memoria** dentro del servicio.
 * Implementa validaciones con `class-validator`.
 * Arquitectura por capas aplicada de forma estricta.
+
+---
+▶️VIDEO DE YOUTUBE: https://youtu.be/N1ChkxUFQcY
