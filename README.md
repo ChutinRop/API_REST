@@ -77,7 +77,7 @@ Content-Type: application/json
 1. Clonar el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/API_REST.git
+   git clone https://github.com/ChutinRop/API_REST.git
    cd API_REST
    ```
 
@@ -108,4 +108,5 @@ Content-Type: application/json
 * Arquitectura por capas aplicada de forma estricta.
 
 ---
+
 ▶️VIDEO DE YOUTUBE: https://youtu.be/N1ChkxUFQcY
